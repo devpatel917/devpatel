@@ -9,6 +9,6 @@ What is the structure of the math department at the University of Illinois? The 
 2. From this extracted information, we generated distance matrices to represent connections between each pair of faculty in the math department
 3. We applied hierachial clutering algorithms to these distance matrices to generate research clusters between faculty members
 
-Final Report (https://drive.google.com/file/d/1g3Dv-cTI_qWQOws_tKPm-aUfNhc8Uagn/view?usp=sharing)
-Poster (https://drive.google.com/file/d/14vDHpwclFKu1Q50qCm7aBtL-sq-H8VeM/view?usp=sharing)
+[Final Report] (https://drive.google.com/file/d/1g3Dv-cTI_qWQOws_tKPm-aUfNhc8Uagn/view?usp=sharing)
+[Poster] (https://drive.google.com/file/d/14vDHpwclFKu1Q50qCm7aBtL-sq-H8VeM/view?usp=sharing)
 
