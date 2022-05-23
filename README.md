@@ -10,5 +10,6 @@ What is the structure of the math department at the University of Illinois? The 
 3. We applied hierarchical clutering algorithms to these distance matrices to generate research clusters between faculty members
 
 [Final Report](https://drive.google.com/file/d/1g3Dv-cTI_qWQOws_tKPm-aUfNhc8Uagn/view?usp=sharing)
+
 [Poster](https://drive.google.com/file/d/14vDHpwclFKu1Q50qCm7aBtL-sq-H8VeM/view?usp=sharing)
 
