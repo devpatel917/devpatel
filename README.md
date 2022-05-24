@@ -28,3 +28,17 @@ significant metabolites and taxonomic groups from five separate randomized, cont
 [Final Report](https://drive.google.com/file/d/1PuUYHk2G0YUckFo4FEECkubsmZK4WMq0/view?usp=sharing)
 
 [Poster](https://drive.google.com/file/d/1P1kzv5zsek4r7QCOsSr7Gk9YfFbhIi4L/view?usp=sharing)
+
+
+
+**NFL Big Data Bowl 2022 (Kaggle Competition) **
+
+In this project, we create a new metric to evaluate kickers in the NFL. This new metric provides a 'clutchness' rating for the kicker, taking into account both the difficulty of the kick and the situation in the game. 
+
+1. Data Cleaning and Data Collection - Weather data for each game, kicking play data, etc
+2. Feature Extraction - Kick Length, Quarter, Time Remaining in game, temperature, etc for each kick of each kicker from 2018-2020
+3. Model Building - Created two different models using feed forward neural networks. The first model predicts if a kick was made independent of kicker info. The second model predicts if a kick was made dependent on kicker info. The difference between these models suggests the performance of the kicker. 
+
+
+[Submission](https://www.kaggle.com/code/mattt31/evaluating-kicker-performance-using-ker/notebook?scriptVersionId=84600332)
+
