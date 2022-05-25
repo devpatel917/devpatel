@@ -31,7 +31,7 @@ significant metabolites and taxonomic groups from five separate randomized, cont
 
 
 
-**NFL Big Data Bowl 2022 (Kaggle Competition) **
+**NFL Big Data Bowl 2022 (Kaggle Competition)**
 
 In this project, we create a new metric to evaluate kickers in the NFL. This new metric provides a 'clutchness' rating for the kicker, taking into account both the difficulty of the kick and the situation in the game. 
 
