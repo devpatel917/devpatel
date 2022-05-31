@@ -55,6 +55,4 @@ In this project, we built a job scheduling application that automates business t
 
 **Kaggle Competitions**
 
-[Titanic](https://github.com/devpatel917/TitanicKaggleML) 
-
-Built a machine learning model that predicts which passengers survived the Titanic using passenger data (name, age, gender, socioeconomic class, etc) 
+[Titanic](https://github.com/devpatel917/TitanicKaggleML) : Built a machine learning model that predicts which passengers survived the Titanic using passenger data (name, age, gender, socioeconomic class, etc) 
