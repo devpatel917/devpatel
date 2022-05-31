@@ -43,7 +43,7 @@ In this project, we create a new metric to evaluate kickers in the NFL. This new
 [Submission](https://www.kaggle.com/code/mattt31/evaluating-kicker-performance-using-ker/notebook?scriptVersionId=84600332)
 
 
-**Job Scheduler Application (IT Expert System Inc)**
+**Job Scheduler Application (IT Expert System Internship)**
 
 In this project, we built a job scheduling application that automates business tasks such as sending birthday emails, generating reports, sending SMS messages, and converting audio to text using AWS, Knack Database, and python. 
 
