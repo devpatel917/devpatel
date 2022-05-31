@@ -42,3 +42,15 @@ In this project, we create a new metric to evaluate kickers in the NFL. This new
 
 [Submission](https://www.kaggle.com/code/mattt31/evaluating-kicker-performance-using-ker/notebook?scriptVersionId=84600332)
 
+
+**Job Scheduler Application (IT Expert System Inc)**
+
+In this project, we built a job scheduling application that automates business tasks such as sending birthday emails, generating reports, sending SMS messages, and converting audio to text using AWS, Knack Database, and python. 
+
+[Presentation](https://drive.google.com/file/d/14DDx_nlLiqxYkd8V77GPPZEJePfb88SN/view?usp=sharing)
+[Code](https://github.com/anandani4136/ITExpsGUI)
+
+
+
+**Kaggle Competitions**
+[Titanic](https://github.com/devpatel917/TitanicKaggleML) : Built a machine learning model that predicts which passengers survived the Titanic using passenger data (name, age, gender, socioeconomic class, etc) 
