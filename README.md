@@ -57,6 +57,6 @@ In this project, we built a job scheduling application that automates business t
 
 [Titanic](https://github.com/devpatel917/TitanicKaggleML) : Built a machine learning model that predicts which passengers survived the Titanic using passenger data (name, age, gender, socioeconomic class, etc) 
 
-[Spaceship Titanic](https://www.kaggle.com/code/devpatel917/79-random-forest-model) : Built a Random Forest Classifer that predicts which passengers were transported into another dimension. 
+[Spaceship Titanic](https://www.kaggle.com/code/devpatel917/79-random-forest-model) : Built a Random Forest Classifer that predicts which passengers were transported into another dimension with 79.9% accuracy (Top 30% of kaggle submissions). 
 
 Techniques Implemented: Exploratory Data Analysis, Feature Engineering, Hyperparameter Optimization, K fold cross validation
