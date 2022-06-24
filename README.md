@@ -13,6 +13,8 @@ What is the structure of the math department at the University of Illinois? The 
 
 [Poster](https://drive.google.com/file/d/14vDHpwclFKu1Q50qCm7aBtL-sq-H8VeM/view?usp=sharing)
 
+Tools: Selenium and Beautiful Soup, Web Scraping, Hierarchial Clustering Algorithms
+
 
 
 **Gut Microbiome Data Science Project (National Center for Supercomputing Applications)**
@@ -29,6 +31,8 @@ significant metabolites and taxonomic groups from five separate randomized, cont
 
 [Poster](https://drive.google.com/file/d/1P1kzv5zsek4r7QCOsSr7Gk9YfFbhIi4L/view?usp=sharing)
 
+Tools: Data Cleaning, EDA, Random Forest, Principal Component Analysis, Statistical Significance Testing
+
 
 
 **NFL Big Data Bowl 2022 (Kaggle Competition)**
@@ -42,6 +46,8 @@ In this project, we create a new metric to evaluate kickers in the NFL. This new
 
 [Submission](https://www.kaggle.com/code/mattt31/evaluating-kicker-performance-using-ker/notebook?scriptVersionId=84600332)
 
+Tools: Data Cleaning, Neural Networks
+
 
 **Job Scheduler Application (IT Expert System Internship)**
 
@@ -51,6 +57,8 @@ In this project, we built a job scheduling application that automates business t
 
 [Code](https://github.com/anandani4136/ITExpsGUI)
 
+ Tools: AWS, Knack Database, Knack API, Threading, AWS S3 Buckets, Python tkinter, AWS Polly
+
 
 
 **Kaggle Competitions**
@@ -59,4 +67,4 @@ In this project, we built a job scheduling application that automates business t
 
 [Spaceship Titanic](https://www.kaggle.com/code/devpatel917/79-random-forest-model) : Built a Random Forest Classifer that predicts which passengers were transported into another dimension with 79.9% accuracy (Top 30% of kaggle submissions). 
 
-Techniques Implemented: Exploratory Data Analysis, Feature Engineering, Hyperparameter Optimization, K fold cross validation
+Techniques Implemented: Exploratory Data Analysis, Feature Engineering, Hyperparameter Optimization, K fold cross validation, Random Forest, XGBoost, Logistic Regression
