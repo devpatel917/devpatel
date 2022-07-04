@@ -68,3 +68,11 @@ In this project, we built a job scheduling application that automates business t
 [Spaceship Titanic](https://www.kaggle.com/code/devpatel917/79-random-forest-model) : Built a Random Forest Classifer that predicts which passengers were transported into another dimension with 79.9% accuracy (Top 30% of kaggle submissions). 
 
 Techniques Implemented: Exploratory Data Analysis, Feature Engineering, Hyperparameter Optimization, K fold cross validation, Random Forest, XGBoost, Logistic Regression
+
+**Face Mask Detection**
+
+Built a face mask detector that takes an image as an input, recognizes the faces, and classifies if the faces have mask/no mask. Used Convolutional Neural Network to train model with 5000 images of mask and no mask. 
+
+[Face Mask Detector App](https://devpatel917-facemaskdetection-app-98f4fk.streamlitapp.com/)
+
+Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing)
