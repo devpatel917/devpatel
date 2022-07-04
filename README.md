@@ -1,6 +1,6 @@
 ## Dev's Data Science Portfolio
 
-![Self Image](/docs/assets/IMG1048.jpg)
+![Self Image](/docs/assets/IMG1048.jpg=250x250)
 
 ### Projects
 **Department Deep Structure (Illinois Geometry Lab)**
