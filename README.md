@@ -43,6 +43,9 @@ Tools: Selenium and Beautiful Soup, Web Scraping, Hierarchial Clustering Algorit
 
 
 **Gut Microbiome Data Science Project (National Center for Supercomputing Applications)**
+
+<img src="/docs/assets/spin.png" width="362" height="269" hspace="20" vspace="20" class = "center">
+
 Diet is a modifiable lifestyle factor that can alter the composition of the human gastrointestinal microbiome. To study these changes, data science techniques can be applied to identify fecal metabolites as objective biomarkers of food consumption. The aim of this project was to identify
 significant metabolites and taxonomic groups from five separate randomized, controlled dietary interventions providing almonds, avocados, broccoli, whole grain barley and oats, and walnuts.
 
