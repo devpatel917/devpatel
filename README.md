@@ -81,6 +81,8 @@ Tools: Data Cleaning, Neural Networks
 
 **Job Scheduler Application (IT Expert System Internship)**
 
+<img src="/docs/assets/itexperts.png" width="431" height="268" hspace="20" vspace="20" class = "center">
+
 In this project, we built a job scheduling application that automates business tasks such as sending birthday emails, generating reports, sending SMS messages, and converting audio to text using AWS, Knack Database, and python. 
 
 [Presentation](https://drive.google.com/file/d/14DDx_nlLiqxYkd8V77GPPZEJePfb88SN/view?usp=sharing)
