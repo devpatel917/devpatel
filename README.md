@@ -19,7 +19,7 @@ Built a face mask detector that takes an image as an input, recognizes the faces
 
 [Face Mask Detector App](https://devpatel917-facemaskdetection-app-98f4fk.streamlitapp.com/)
 
-Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing)
+Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing), Streamlit Cloud (Deployment)
 
 <br clear="left"/>
 
