@@ -65,6 +65,8 @@ Tools: Data Cleaning, EDA, Random Forest, Principal Component Analysis, Statisti
 
 **NFL Big Data Bowl 2022 (Kaggle Competition)**
 
+<img src="/docs/assets/bigdata.png" width="407" height="215" hspace="20" vspace="20" class = "center">
+
 In this project, we create a new metric to evaluate kickers in the NFL. This new metric provides a 'clutchness' rating for the kicker, taking into account both the difficulty of the kick and the situation in the game. 
 
 1. Data Cleaning and Data Collection - Weather data for each game, kicking play data, etc
