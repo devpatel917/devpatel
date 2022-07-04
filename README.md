@@ -1,7 +1,11 @@
 ## Dev's Data Science Portfolio
 
 
-<img src="/docs/assets/IMG1048.jpg" width="378" height="504">
+<img align = "left" src="/docs/assets/IMG1048.jpg" width="378" height="504">
+
+Hi!
+
+I'm Dev, second year student at the University of Illinois studying Statistics and Computer Science. My interest lies in ML/AI and data science. Scroll down to check out some of my projects!
 
 
 ### Projects
