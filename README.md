@@ -21,6 +21,7 @@ Built a face mask detector that takes an image as an input, recognizes the faces
 
 Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing), Streamlit Cloud (Deployment)
 
+
 <br clear="left"/>
 
 **Department Deep Structure (Illinois Geometry Lab)**
