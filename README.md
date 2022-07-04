@@ -18,7 +18,6 @@ I'm Dev, second year student at the University of Illinois studying Statistics a
 Built a face mask detector that takes an image as an input, recognizes the faces, and classifies if the faces have mask/no mask. Used Convolutional Neural Network to train model with 5000 images of mask and no mask. 
 
 [Face Mask Detector App](https://devpatel917-facemaskdetection-app-98f4fk.streamlitapp.com/)
-
 Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing), Streamlit Cloud (Deployment)
 
 
