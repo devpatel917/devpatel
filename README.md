@@ -11,6 +11,18 @@ I'm Dev, second year student at the University of Illinois studying Statistics a
 
 
 ### Projects
+
+**Face Mask Detection**
+<img align = "left" src="/docs/assets/mask.png" width="348" height="234" hspace="20" vspace="20">
+
+Built a face mask detector that takes an image as an input, recognizes the faces, and classifies if the faces have mask/no mask. Used Convolutional Neural Network to train model with 5000 images of mask and no mask. 
+
+[Face Mask Detector App](https://devpatel917-facemaskdetection-app-98f4fk.streamlitapp.com/)
+
+Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing)
+
+<br clear="left"/>
+
 **Department Deep Structure (Illinois Geometry Lab)**
 What is the structure of the math department at the University of Illinois? The question is not as simple as it seems: the research group composition changes fast, and their impact on the global scale might be smaller or larger than it seems. The goal of this project is to detect research clusters in the math department at the University. 
 
@@ -78,10 +90,5 @@ In this project, we built a job scheduling application that automates business t
 
 Techniques Implemented: Exploratory Data Analysis, Feature Engineering, Hyperparameter Optimization, K fold cross validation, Random Forest, XGBoost, Logistic Regression
 
-**Face Mask Detection**
 
-Built a face mask detector that takes an image as an input, recognizes the faces, and classifies if the faces have mask/no mask. Used Convolutional Neural Network to train model with 5000 images of mask and no mask. 
 
-[Face Mask Detector App](https://devpatel917-facemaskdetection-app-98f4fk.streamlitapp.com/)
-
-Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing)
