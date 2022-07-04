@@ -1,7 +1,7 @@
 ## Dev's Data Science Portfolio
 
 
-<img align = "left" src="/docs/assets/IMG1048.jpg" width="378" height="504">
+<img align = "left" src="/docs/assets/IMG1048.jpg" width="378" height="504" padding-right:10px>
 
 Hi!
 
