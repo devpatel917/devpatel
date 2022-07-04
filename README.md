@@ -24,6 +24,10 @@ Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image 
 <br clear="left"/>
 
 **Department Deep Structure (Illinois Geometry Lab)**
+
+
+<img src="/docs/assets/DeepStructure.png" width="388" height="268" hspace="20" vspace="20">
+
 What is the structure of the math department at the University of Illinois? The question is not as simple as it seems: the research group composition changes fast, and their impact on the global scale might be smaller or larger than it seems. The goal of this project is to detect research clusters in the math department at the University. 
 
 1. We used python libraries Selenium and BeautifulSoup to web scrape data from MathSciNet, a research database containing mathematical publications, references, citations, etc
