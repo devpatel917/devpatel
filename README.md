@@ -1,7 +1,7 @@
 ## Dev's Data Science Portfolio
 
 
-<img src="/docs/assets/IMG1048.jpg" width="756" height="1008">
+<img src="/docs/assets/IMG1048.jpg" width="378" height="504">
 
 
 ### Projects
