@@ -23,6 +23,7 @@ Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image 
 
 <br clear="left"/>
 
+
 **Quantitative Momentum Investing Strategy** 
 
 <img align = "right" src="/docs/assets/stock1.png" width="319" height="255" hspace="20" vspace="20">
