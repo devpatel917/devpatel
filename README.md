@@ -23,6 +23,12 @@ Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image 
 
 <br clear="left"/>
 
+**Quantitative Momentum Investing Strategy** 
+
+In this stock investment strategy, the user first inputs the value of their portfolio. The resulting output is the top 50 stocks from the S&P 500 Stock Index with the highest HMQ score and the amount of shares to buy of each (each stock in the top 50 has equal weight in this ranking). The HMQ score is calculated by taking the arithmetic mean of the percentiles of one year price return, six month price return, three month price return, and one month price return for each stock. 
+
+Tools Used: IEX Cloud API, Pandas, Streamlit
+
 **Department Deep Structure (Illinois Geometry Lab)**
 
 
