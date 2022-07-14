@@ -15,7 +15,7 @@ I'm Dev, second year student at the University of Illinois studying Statistics a
 **Face Mask Detection**
 <img align = "left" src="/docs/assets/mask.png" width="348" height="234" hspace="20" vspace="20">
 
-Built a face mask detector that takes an image as an input, recognizes the faces, and classifies if the faces have mask/no mask. Used Convolutional Neural Network to train model with 5000 images of mask and no mask. 
+Masks play a crucial role in protecting the health of individuals against respiratory diseases. Trained with 5000 images of mask/no mask, this model can classify facial images with mask/without mask. 
 
 [Face Mask Detector App](https://devpatel917-facemaskdetection-app-98f4fk.streamlitapp.com/)
 Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing), Streamlit Cloud (Deployment)
@@ -28,7 +28,7 @@ Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image 
 
 <img align = "right" src="/docs/assets/stock1.png" width="319" height="255" hspace="20" vspace="20">
 
-In this stock investment strategy, we recommend the stocks with the highest HQM score.The HQM score is calculated by taking the arithmetic mean of the percentiles of one year price return, six month price return, three month price, return, and one month price return for each stock in the S&P 500 Index. 
+In this stock investment strategy, we recommend the stocks with the highest HQM score. The HQM score is calculated by taking the arithmetic mean of the percentiles of one year price return, six month price return, three month price, return, and one month price return for each stock in the S&P 500 Index. 
 
 [Quant Momentum Investing Strategy](https://devpatel917-quantfinanceprojects-app-vpqh88.streamlitapp.com/)
 
