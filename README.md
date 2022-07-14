@@ -18,6 +18,7 @@ I'm Dev, second year student at the University of Illinois studying Statistics a
 Masks play a crucial role in protecting the health of individuals against respiratory diseases. Trained with 5000 images of mask/no mask, this model can classify facial images with mask/without mask. 
 
 [Face Mask Detector App](https://devpatel917-facemaskdetection-app-98f4fk.streamlitapp.com/)
+
 Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing), Streamlit Cloud (Deployment)
 
 
