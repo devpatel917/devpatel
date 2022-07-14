@@ -28,7 +28,7 @@ Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image 
 
 <img align = "right" src="/docs/assets/stock1.png" width="319" height="255" hspace="20" vspace="20">
 
-In this stock investment strategy, the user first inputs the value of their portfolio. The resulting output is the top 50 stocks from the S&P 500 Stock Index with the highest HMQ score and the amount of shares to buy of each stock (each stock in the top 50 has equal weight in this ranking). The HMQ score is calculated by taking the arithmetic mean of the percentiles of one year price return, six month price return, three month price return, and one month price return for each stock. 
+In this stock investment strategy, we recommend the stocks with the highest HQM score.The HQM score is calculated by taking the arithmetic mean of the percentiles of one year price return, six month price return, three month price, return, and one month price return for each stock in the S&P 500 Index. 
 
 [Quant Momentum Investing Strategy](https://devpatel917-quantfinanceprojects-app-vpqh88.streamlitapp.com/)
 
