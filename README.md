@@ -24,6 +24,16 @@ Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image 
 
 <br clear="left"/>
 
+**Stock Sentiment Analysis**
+
+<img align = "left" src="/docs/assets/stock1.png" width="319" height="255" hspace="20" vspace="20">
+
+Financial markets are hard to predict, but sentimental analysis is an increasingly popular method to gauge the general opinion on financial assets. In this project, we utilize an NLP model to conduct sentiment analysis on tweets related to stocks. The results of this model can help us better understand the correlation between public sentiment and stock price movement. 
+
+Tools Used: Twitter API, Flair (NLP), Pandas, yfinance, Regular Expression
+
+<br clear="left"/>
+
 
 **Quantitative Momentum Investing Strategy** 
 
