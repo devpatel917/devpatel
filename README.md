@@ -34,6 +34,13 @@ Tools Used: Twitter API, Flair (NLP), Pandas, yfinance, Regular Expression
 
 <br clear="left"/>
 
+**Credit Card Fraud Detection**
+<img align = "right" src="/docs/assets/tsla.png" width="400" height="250" hspace="20" vspace="20">
+
+It is important that credit card companies are able to recognize fradulent credit card transactions so that customers are not charged for items that they did not purchase. In this project, we develop a machine learning model to identify fradulent credit card transactions. 
+
+Tools Used: Pandas, Logistic Regression, sklearn
+
 
 **Quantitative Momentum Investing Strategy** 
 
