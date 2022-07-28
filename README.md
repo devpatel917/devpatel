@@ -41,6 +41,9 @@ It is important that credit card companies are able to recognize fradulent credi
 
 Tools Used: Pandas, Logistic Regression, sklearn
 
+[Credit Card Fraud Detection] (https://github.com/devpatel917/CreditCardFraudDetection)
+
+
 
 **Quantitative Momentum Investing Strategy** 
 
