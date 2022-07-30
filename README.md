@@ -50,6 +50,8 @@ Customer Segmentation is the process by which you cluster customers into segment
 
 Tools Used: Pandas, sklearn, K means clustering, Davies Bouldin Score
 
+<br clear="left"/>
+
 [Customer Segmentation](https://github.com/devpatel917/CreditCardFraudDetection)
 
 
