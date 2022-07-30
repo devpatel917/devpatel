@@ -43,6 +43,14 @@ Tools Used: Pandas, Logistic Regression, sklearn
 
 [Credit Card Fraud Detection](https://github.com/devpatel917/CreditCardFraudDetection)
 
+**Customer Segmentation**
+<img align = "left" src="/docs/assets/scatter.png" width="481" height="355" hspace="20" vspace="20">
+
+Customer Segmentation is the process by which you cluster customers into segments based on common characteristics such as demographics or behaviors, so you can market to those customers more effectively. In this project, we will cluster supermarket customers based on customer data.
+
+Tools Used: Pandas, sklearn, K means clustering, Davies Bouldin Score
+
+[Customer Segmentation](https://github.com/devpatel917/CreditCardFraudDetection)
 
 
 **Quantitative Momentum Investing Strategy** 
