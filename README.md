@@ -41,6 +41,13 @@ It is important that credit card companies are able to recognize fradulent credi
 
 Tools Used: Pandas, Logistic Regression, sklearn
 
+**Car Sales Data Visualization**
+Data Visualization is an important part of data storytelling. In this simple project, we create a simple dashboard of plots related to car sales data. 
+
+Tools Used: Seaborn, Matplotlib, Plotly
+
+
+
 [Credit Card Fraud Detection](https://github.com/devpatel917/CreditCardFraudDetection)
 
 **Customer Segmentation**
