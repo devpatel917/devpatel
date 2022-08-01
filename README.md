@@ -43,9 +43,11 @@ Tools Used: Pandas, Logistic Regression, sklearn
 
 **Car Sales Data Visualization**
 <img align = "left" src="/docs/assets/dashboard.png" width="300" height="225" hspace="20" vspace="20">
+
 Data Visualization is an important part of data storytelling. In this simple project, we create a simple dashboard of plots related to car sales data. 
 
 Tools Used: Seaborn, Matplotlib, Plotly
+
 [Car Sales Data Visualization](https://github.com/devpatel917/CreditCardFraudDetection)
 
 <br clear="left"/>
