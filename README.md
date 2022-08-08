@@ -41,12 +41,16 @@ It is important that credit card companies are able to recognize fradulent credi
 
 Tools Used: Pandas, Logistic Regression, sklearn
 
+
+
 **Option Pricing Models**
-<img align = "right" src="/docs/assets/dashboard.png" width="300" height="225" hspace="20" vspace="20">
+<img align = "right" src="/docs/assets/options3.png" width="360.5" height="246" hspace="20" vspace="20">
 
 Options are financial derivatives that gives buyers the right to buy or sell an underlying asset at an agreed upon price and date. Various mathematical models are used to evaluate the price of these options. In this project, we will use Monte Carlo and Black Scholes to price the value of options. 
 
 Tools Used: Black Scholes, Monte Carlo, Pandas, Numpy
+
+
 
 **Car Sales Data Visualization**
 <img align = "left" src="/docs/assets/dashboard.png" width="300" height="225" hspace="20" vspace="20">
