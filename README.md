@@ -50,7 +50,7 @@ Options are financial derivatives that gives buyers the right to buy or sell an 
 
 Tools Used: Black Scholes, Monte Carlo, Pandas, Numpy
 
-
+<br clear="right"/>
 
 **Car Sales Data Visualization**
 <img align = "left" src="/docs/assets/dashboard.png" width="300" height="225" hspace="20" vspace="20">
