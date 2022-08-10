@@ -22,6 +22,13 @@ Masks play a crucial role in protecting the health of individuals against respir
 Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing), Streamlit Cloud (Deployment)
 
 
+**Chatbot using NLP**
+<img align = "right" src="/docs/assets/mask.png" width="348" height="234" hspace="20" vspace="20">
+
+In this project, we train a simple model to create a chatbot. 
+
+Tools: NLTK, Text Preprocessing (Tokenization, Stemming, Bag of Words), Feed Forward Neural Net
+
 <br clear="left"/>
 
 **Stock Sentiment Analysis**
