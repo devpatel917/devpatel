@@ -21,6 +21,7 @@ Masks play a crucial role in protecting the health of individuals against respir
 
 Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image Processing), Streamlit Cloud (Deployment)
 
+<br clear="left"/>
 
 
 **Chatbot using NLP**
