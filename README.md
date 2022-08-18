@@ -34,6 +34,16 @@ Tools: NLTK, Text Preprocessing (Tokenization, Stemming, Bag of Words), Feed For
 <br clear="right"/>
 
 
+**Note Taking Application**
+<img align = "right" src="/docs/assets/chat.png" width="324" height="163" hspace="20" vspace="20">
+
+In this project, we create a simple note taking application with a login system
+
+Tools: Flask, SQLAlchemy, Bootstrap, Heroku, HTML
+
+<br clear="right"/>
+
+
 
 **Stock Sentiment Analysis**
 
