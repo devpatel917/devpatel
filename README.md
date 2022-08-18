@@ -24,6 +24,8 @@ Tools Used: CNN (ML Algorithm), TensorFlow, Streamlit (Frontend), OpenCV (Image 
 <br clear="left"/>
 
 
+
+
 **Chatbot using NLP**
 <img align = "right" src="/docs/assets/chat.png" width="324" height="163" hspace="20" vspace="20">
 
@@ -33,7 +35,10 @@ Tools: NLTK, Text Preprocessing (Tokenization, Stemming, Bag of Words), Feed For
 
 <br clear="right"/>
 
-$\linebreak$
+
+
+
+
 
 **Note Taking Application**
 <img align = "right" src="/docs/assets/notes.png" width="426" height="182" hspace="20" vspace="20">
