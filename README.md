@@ -33,7 +33,7 @@ Tools: NLTK, Text Preprocessing (Tokenization, Stemming, Bag of Words), Feed For
 
 <br clear="right"/>
 
-\linebreak 
+$\linebreak$
 
 **Note Taking Application**
 <img align = "right" src="/docs/assets/notes.png" width="426" height="182" hspace="20" vspace="20">
