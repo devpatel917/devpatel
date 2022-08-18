@@ -35,7 +35,7 @@ Tools: NLTK, Text Preprocessing (Tokenization, Stemming, Bag of Words), Feed For
 
 
 **Note Taking Application**
-<img align = "right" src="/docs/assets/chat.png" width="324" height="163" hspace="20" vspace="20">
+<img align = "right" src="/docs/assets/notes.png" width="426" height="182" hspace="20" vspace="20">
 
 In this project, we create a simple note taking application with a login system
 
