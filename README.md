@@ -52,7 +52,7 @@ Tools: Flask, SQLAlchemy, Bootstrap, Heroku, HTML
 <br clear="right"/>
 
 **Customer Transactions Data Engineering Pipeline**
-
+<img align = "left" src="/docs/assets/pipeline.png" width="358" height="181" hspace="20" vspace="20">
 In this project, we create a data pipeline for customer transactions. The initial data stream will be sample e-commerce sales in JSON format that will be stored in AWS S3 Bucket. First, we create AWS IAM user to generate key and token. Next, we create two S3 buckets (source and destination). Then, we create database and table in Snowflake and connect to S3 to retrieve files. Finally, we create two snowflake tables to load and transform the data. After the data has been transformed into table, we can write the data back into another S3 bucket. This is stored as one procedure. We set up Airflow by connecting to Snowflake and create operator to trigger the stored procedure. 
 
 Tools: SQL, Snowflake, AWS S3 Buckets, AWS Lambda, JSON, Apache Airflow
