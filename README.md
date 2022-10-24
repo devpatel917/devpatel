@@ -105,6 +105,7 @@ A superstore is a very large supermarket, often selling household goods, clothes
 Tools Used: Tableau, Tableau Cloud
 
 <br clear="left"/>
+
 **Customer Segmentation**
 <img align = "left" src="/docs/assets/scatter.png" width="481" height="355" hspace="20" vspace="20">
 
