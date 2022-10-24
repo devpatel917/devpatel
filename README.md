@@ -84,7 +84,7 @@ Tools Used: Black Scholes, Monte Carlo, Pandas, Numpy
 <br clear="right"/>
 
 **Car Sales Data Visualization**
-<img align = "left" src="/docs/assets/dashboard.png" width="300" height="225" hspace="20" vspace="20">
+<img align = "left" src="/docs/assets/dashboard2.png" width="300" height="225" hspace="20" vspace="20">
 
 Data Visualization is an important part of data storytelling. In this simple project, we create a simple dashboard of plots related to car sales data. 
 
