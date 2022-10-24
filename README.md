@@ -167,6 +167,8 @@ What is the structure of the math department at the University of Illinois? The 
 
 [Poster](https://drive.google.com/file/d/14vDHpwclFKu1Q50qCm7aBtL-sq-H8VeM/view?usp=sharing)
 
+[Code](https://github.com/CoulsonZhang/Deep_Structure)
+
 Tools: Selenium and Beautiful Soup, Web Scraping, Hierarchial Clustering Algorithms
 
 
@@ -187,6 +189,8 @@ significant metabolites and taxonomic groups from five separate randomized, cont
 [Final Report](https://drive.google.com/file/d/1PuUYHk2G0YUckFo4FEECkubsmZK4WMq0/view?usp=sharing)
 
 [Poster](https://drive.google.com/file/d/1P1kzv5zsek4r7QCOsSr7Gk9YfFbhIi4L/view?usp=sharing)
+
+[Code](https://github.com/devpatel917/gm-ds-project)
 
 Tools: Data Cleaning, EDA, Random Forest, Principal Component Analysis, Statistical Significance Testing
 
