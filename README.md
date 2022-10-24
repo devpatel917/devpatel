@@ -98,7 +98,7 @@ Tools Used: Seaborn, Matplotlib, Plotly
 
 
 **Supermarket Sales and Profit Interactive Dashboard**
-<img align = "left" src="/docs/assets/dashboard.png" width="300" height="225" hspace="20" vspace="20">
+<img align = "left" src="/docs/assets/dashboard.png" width="640" height="400" hspace="20" vspace="20">
 
 Tools Used: Tableau, Tableau Cloud
 
