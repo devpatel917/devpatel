@@ -57,8 +57,9 @@ Tools: Flask, SQLAlchemy, Bootstrap, Heroku, HTML
 
 In this project, we create a data pipeline for customer transactions. The initial data stream will be e-commerce sales in JSON format that will be stored in AWS S3 Bucket. First, we create AWS IAM user to generate key and token. Next, we create two S3 buckets. Then, we create database and table in Snowflake and connect to S3 to retrieve files. Finally, we create two snowflake tables to load and transform the data. We can then write the data back into another S3 bucket. 
 
-
 Tools: SQL, Snowflake, AWS S3 Buckets, AWS Lambda, JSON, Apache Airflow
+
+[ETL Pipeline Architecture](https://drive.google.com/file/d/10g9K9hT31a1SR3w8R6Esbv51XbIdfVyJ/view?usp=sharing)
 
 
 <br clear="right"/>
