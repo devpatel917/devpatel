@@ -96,6 +96,13 @@ Tools Used: Seaborn, Matplotlib, Plotly
 
 [Credit Card Fraud Detection](https://github.com/devpatel917/CreditCardFraudDetection)
 
+
+**Supermarket Sales and Profit Interactive Dashboard**
+<img align = "left" src="/docs/assets/dashboard.png" width="300" height="225" hspace="20" vspace="20">
+
+Tools Used: Tableau, Tableau Cloud
+
+
 **Customer Segmentation**
 <img align = "left" src="/docs/assets/scatter.png" width="481" height="355" hspace="20" vspace="20">
 
