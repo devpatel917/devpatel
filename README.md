@@ -51,6 +51,17 @@ Tools: Flask, SQLAlchemy, Bootstrap, Heroku, HTML
 
 <br clear="right"/>
 
+
+**Azure Data Piepline**
+<img align = "right" src="/docs/assets/pipeline2.png" width="467" height="301" hspace="20" vspace="20">
+
+In this project, we create a simple data pipeline that copies customer csv file into a container and performs K means clustering algorithm in the Databricks notebook. The output dataframe is then stored in separate folder within the same container. 
+
+Tools: Azure Data Factory, Azure Blob Storage, Databricks, PySpark, Python
+
+
+<br clear="right"/>
+
 **Customer Transactions Data Engineering Pipeline**
 <img align = "left" src="/docs/assets/pipeline.png" width="358" height="181" hspace="20" vspace="20">
 
