@@ -247,7 +247,7 @@ In this project, we built a job scheduling application that automates business t
  
  Tools: Neo4j Graph Database, Cypher queries, Python, Pandas
 
-
+<br clear="left"/>
 
 **Kaggle Competitions**
 
