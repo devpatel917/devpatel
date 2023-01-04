@@ -239,6 +239,12 @@ In this project, we built a job scheduling application that automates business t
  
  In this project, we query CSSR chapters and diseases into the neo4j graph database, transforming the list of chapters and diseases into a graph data structure. 
  
+ 
+ <img align = "left" src="/docs/assets/graph (5) (1).png" width="414" height="391" hspace="20" vspace="20">
+ 
+ [Code](https://github.com/devpatel917/neo4jproject)
+ 
+ 
  Tools: Neo4j Graph Database, Cypher queries, Python, Pandas
 
 
