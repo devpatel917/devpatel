@@ -234,6 +234,12 @@ In this project, we built a job scheduling application that automates business t
 [Code](https://github.com/anandani4136/ITExpsGUI)
 
  Tools: AWS, Knack Database, Knack API, Threading, AWS S3 Buckets, Python tkinter, AWS Polly
+ 
+ **Data Management Neo4j**
+ 
+ In this project, we query CSSR chapters and diseases into the neo4j graph database, transforming the list of chapters and diseases into a graph data structure. 
+ 
+ Tools: Neo4j Graph Database, Cypher queries, Python, Pandas
 
 
 
