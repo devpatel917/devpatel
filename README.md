@@ -258,6 +258,8 @@ In this project, we design and implement a database schema of customer-policy-cl
 
 Tools: ER diagram, SQLite3 Database, SQL, Python
 
+<br clear="left"/>
+
 
 
 
