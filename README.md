@@ -148,7 +148,7 @@ In this project, we will create a model that can predict whether a customer will
 
 Tools Used: Flask, Heroku, Python, sklearn, Pandas
 
-[Customer Churn Analysis](https://github.com/devpatel917/CreditCardFraudDetection)
+[Customer Churn Analysis](https://github.com/devpatel917/customer_churn)
 
 
 **Quantitative Momentum Investing Strategy** 
