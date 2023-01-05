@@ -142,11 +142,11 @@ Tools Used: Pandas, sklearn, K means clustering, Davies Bouldin Score
 
 
 **Customer Churn Analysis**
-<img align = "left" src="/docs/assets/churn.png" width="225" height="132" hspace="20" vspace="20">
+<img align = "left" src="/docs/assets/customer.png" width="500" height="214" hspace="20" vspace="20">
 
-In this project, we will predict whether a customer will change telecommunications providers using over 19 input variables. With this analysis, individualed marketing campaigns can be utilized to target such customers. 
+In this project, we will create a model that can predict whether a customer will change telecommunications providers using over 19 input variables. With this analysis, individualed marketing campaigns can be utilized to target such customers. Finally, we create a web application that provides the probability of the customer staying with the provider. 
 
-Tools Used: Pandas, Python, SQL, sklearn
+Tools Used: Flask, Heroku, Python, sklearn, Pandas
 
 [Customer Churn Analysis](https://github.com/devpatel917/CreditCardFraudDetection)
 
