@@ -253,6 +253,8 @@ In this project, we built a job scheduling application that automates business t
 
 In this project, we design and implement a database schema of customer-policy-claim relationship. 
 
+ <img align = "left" src="/docs/assets/database.png" width="428" height="275" hspace="20" vspace="20">
+
 
 Tools: ER diagram, SQLite3 Database, SQL, Python
 
