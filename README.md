@@ -5,7 +5,9 @@
 
 Hi!
 
-I'm Dev, second year student at the University of Illinois studying Statistics and Computer Science. My interest lies in ML/AI and data science. Scroll down to check out some of my projects!
+I'm Dev, recent graduate from the University of Illinois. My interest lies in ML/AI and data science. Scroll down to check out some of my projects!
+
+Github: https://github.com/devpatel917
 
 <br clear="left"/>
 
